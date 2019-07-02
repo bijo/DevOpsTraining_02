@@ -1,0 +1,29 @@
+HPS Lead Conversion TestCases
+____________________________
+HPS_TC20_DirLead_toOpp_NewAcct
+HPS_TC21_DirLead_toOpp_ExistAcc
+HPS_TC22_PtnrLead_toOpp_NewAcct
+
+
+AccountCreation
+_______________
+HPS_TC24_Find_Exist_HPSAcct
+HPS_TC25_NewAcct_fromD&BList
+HPS_TC26_NewAcct_Manual
+
+Siebel Interface TestCases
+__________________________
+Opportunity
+Account
+
+HPS Service
+___________
+HPS_TC5_Priority 
+HPS_TC1_Manual_WO
+
+NO Test Cases
+_____________
+
+No_Tc01
+
+Data_TC_02
